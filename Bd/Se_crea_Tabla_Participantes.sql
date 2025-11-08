@@ -1,0 +1,1 @@
+CREATE TABLE evento_credenciales.participantes(Id INT AUTO_INCREMENT PRIMARY KEY NOT NULL, Nombre VARCHAR(100) NOT NULL, Correo VARCHAR(255) NOT NULL, Tipo ENUM('visitante','ponente','staff') DEFAULT 'visitante', Invitacion VARCHAR(100) NOT NULL, Foto VARCHAR(255) NOT NULL, Fecha_Registro dateTime)ENGINE = INNODB;
