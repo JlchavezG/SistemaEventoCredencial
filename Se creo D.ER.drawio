@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Modelo Entidad Relacion" id="9iSSEkpT1ujDUIJxBWj_">
+    <mxGraphModel dx="1426" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vva3WW6-KrC9m3bpeflL-1" value="Participantes" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vva3WW6-KrC9m3bpeflL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vva3WW6-KrC9m3bpeflL-2" target="vva3WW6-KrC9m3bpeflL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vva3WW6-KrC9m3bpeflL-2" value="Id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vva3WW6-KrC9m3bpeflL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vva3WW6-KrC9m3bpeflL-3" target="vva3WW6-KrC9m3bpeflL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vva3WW6-KrC9m3bpeflL-3" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vva3WW6-KrC9m3bpeflL-4" value="Correo" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="370" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vva3WW6-KrC9m3bpeflL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="vva3WW6-KrC9m3bpeflL-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vva3WW6-KrC9m3bpeflL-5" value="Tipo" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vva3WW6-KrC9m3bpeflL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vva3WW6-KrC9m3bpeflL-6" target="vva3WW6-KrC9m3bpeflL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vva3WW6-KrC9m3bpeflL-6" value="Invitacion" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="490" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vva3WW6-KrC9m3bpeflL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vva3WW6-KrC9m3bpeflL-7" target="vva3WW6-KrC9m3bpeflL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vva3WW6-KrC9m3bpeflL-7" value="Foto" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="550" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vva3WW6-KrC9m3bpeflL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vva3WW6-KrC9m3bpeflL-8" target="vva3WW6-KrC9m3bpeflL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vva3WW6-KrC9m3bpeflL-8" value="FechReg" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="610" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
